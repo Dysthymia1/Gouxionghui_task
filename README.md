@@ -74,6 +74,6 @@ Gouxionghui/
 本项目在数据采集部分借鉴并使用了以下开源项目的部分代码，特此致谢：
 
 * [WeiboSpider](https://github.com/nghuyong/WeiboSpider)：高性能的微博爬虫框架，支持全站内容抓取。
-* [Bilibili_crawler](https://github.com/linyuye/Bilibili_crawler)：B站弹幕与评论爬取工具，适用于舆情分析与内容挖掘。
+* [Bilibili_crawler](https://github.com/linyuye/Bilibili_crawler)：B站弹幕与评论爬取工具
 
 感谢上述项目的作者为开源社区做出的贡献。
